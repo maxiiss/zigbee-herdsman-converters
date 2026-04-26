@@ -43,9 +43,7 @@ export const definitions: DefinitionWithExtend[] = [
         },
     },
     {
-        zigbeeModel: [
-            "ALCANTARA3"
-        ],
+        zigbeeModel: ["ALCANTARA3"],
         model: "ALCANTARA3",
         vendor: "Acova",
         description: "Alcantara 3 heater",
